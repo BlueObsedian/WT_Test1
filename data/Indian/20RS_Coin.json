@@ -1,0 +1,13 @@
+[
+    {
+        "CoinNo" : 1,
+        "CoinName" : "Twenty Rupees(020)",
+        "CoinID" : "INR-20R-A2020",
+        "CoinCond" : "This is 20 RS coin data.Finally!!",
+        "CoinCountryOfOrigin" : "India",
+        "CoinDate" : "2010",
+        "CoinQuantity" : "1",
+        "CoinDetails" : "It is a 20 rupees coin made up of Nickel and Brass metal.",
+        "CoinDescription" : "It is a bimetallic coin ie nickel brass is in center with copper-nickel ring. It was minted in the year 2020. It is a standard circulation coin. It has a weight of 8.65g, diameter of 27mm and thickness of 2.15mm"
+    }
+]
